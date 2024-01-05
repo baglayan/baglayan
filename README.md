@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=angular, blender, c, cs, cpp, html, css, docker, dotnet, js, ts, py,)” />
-</div>
+### Hi there 👋
+
+[![My Skills](https://skillicons.dev/icons?i=angular,blender,c,cs,cpp,html,css,docker,dotnet,js,ts,py)](https://skillicons.dev)
 
 <!--
 **baglayan/baglayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

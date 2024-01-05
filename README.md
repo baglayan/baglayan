@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,blender,c,cs,cpp,html,css,docker,dotnet,js,ts,py)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baglayan)](https://github.com/baglayan/)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baglayan)](https://github.com/baglayan/)-->
 
 <!--
 **baglayan/baglayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

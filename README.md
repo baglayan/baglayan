@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular, blender, c, cs, cpp, html, css, docker, dotnet, js, ts, py,)” />
 </div>

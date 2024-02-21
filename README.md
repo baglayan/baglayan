@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,html,css,c,cs,cpp,js,ts,docker,py,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,c,cpp,cs,dotnet,js,ts,docker,py,blender)](https://skillicons.dev)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baglayan)](https://github.com/baglayan/)-->
 
